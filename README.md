@@ -21,6 +21,7 @@ Download the IP102 dataset from [this link](https://github.com/xpwu95/IP102) and
 Download the FPD dataset from [this link](https://www.frontiersin.org/articles/10.3389/fpls.2022.857104/full) and place it in the folder ``'./FPD/'``.
 
 **3. Pretrained models**
+
 Pretrained models are available in ``'./models/pest_detection_IP102.pth'`` and ``'./models/pest_detection_FPD.pth'``, which can be downloaded via [this link](https://pan.baidu.com/s/1UjzxSL94mPZlp-GMM1XMxg 
 code：y7z7).
 
