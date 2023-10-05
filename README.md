@@ -23,6 +23,7 @@ Download the FPD dataset from [this link](https://www.frontiersin.org/articles/1
 **3. Pretrained models**
 Pretrained models are available in ``'./models/pest_detection_IP102.pth'`` and ``'./models/pest_detection_FPD.pth'``, which can be downloaded via [this link](https://pan.baidu.com/s/1UjzxSL94mPZlp-GMM1XMxg 
 code：y7z7).
+
 **4. Results in Our Paper**
 
 If you want to infer with our model and obtain the results in our paper, please run 
